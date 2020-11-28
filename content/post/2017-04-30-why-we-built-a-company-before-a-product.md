@@ -151,11 +151,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
 * Unordered list can use asterisks
-
-
 * Or minuses
-
-
 * Or pluses
 
 {{< subscribe email="your@email.com" >}}
