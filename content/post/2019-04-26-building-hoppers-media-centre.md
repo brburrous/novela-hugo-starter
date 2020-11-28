@@ -9,8 +9,6 @@ authors:
 - Dennis Brotzky
 
 ---
-    {{< subscribe email="your@email.com" >}}
-    
 
 {{< subscribe email="your@email.com" >}}
 
