@@ -1,8 +1,7 @@
 ---
 title: Brian Burrous
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+  I'm a mechanical engineering student 
 avatar: /images/mack-mansouri.jpg
 social:
   - title: github
