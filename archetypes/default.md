@@ -10,3 +10,5 @@ draft: true
 ---
 
 Some default content
+
+{{< subscribe email="your@email.com" >}}
