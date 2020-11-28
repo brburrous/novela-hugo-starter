@@ -1,9 +1,7 @@
 ---
 title: Brian Burrous
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: "/images/dennis-brotzky.jpg"
+bio: 'Hey, I''m Brian, a mechanical engineering student based in California. '
+avatar: "/images/twitter-profile-4.jpg"
 featured: true
 social:
 - title: unsplash
