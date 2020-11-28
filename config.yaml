@@ -9,13 +9,8 @@ module:
   imports:
     - path: "github.com/forestryio/hugo-theme-novela"
 paginate: 6
-[social]
-twitter= "https://twitter.com/forestryio"
-github= "https://github.com/forestryio/novela-hugo-starter"
-linkedin= "https://www.linkedin.com/company/forestry.io"
-instagram = "#"
-dribbble = "#"
-youtube = "#"
+social:
+  twitter: "https://twitter.com/forestryio"
+  github: "https://github.com/forestryio/novela-hugo-starter"
 
-[taxonomies]
-author = "authors"
+
