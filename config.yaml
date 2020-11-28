@@ -10,7 +10,7 @@ module:
     - path: "github.com/forestryio/hugo-theme-novela"
 paginate: 6
 social:
-  twitter: "#"
+  twitter: "twitter.com/Brian_Burrous"
   github: "#"
   instagram: "#"
   linkedin: "#"
