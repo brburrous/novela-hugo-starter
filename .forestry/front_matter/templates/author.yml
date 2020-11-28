@@ -19,7 +19,7 @@ fields:
 - name: avatar
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Avatar Image
 - name: social
   type: field_group_list
@@ -39,6 +39,15 @@ fields:
     max: 
     labelField: 
   label: Social Media
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary
 - name: featured
   type: boolean
   label: Featured Author
