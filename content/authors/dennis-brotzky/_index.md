@@ -14,5 +14,6 @@ social:
   url: https://github.com
 - title: github
   url: https://github.com
+summary: 'This is a quick test of the summary feature. '
 
 ---
